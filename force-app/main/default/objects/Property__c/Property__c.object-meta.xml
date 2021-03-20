@@ -163,6 +163,7 @@
         <trackHistory>false</trackHistory>
         <type>Text</type>
     </nameField>
+    <pluralLabel>Properties</pluralLabel>
     <searchLayouts>
         <customTabListAdditionalFields>City__c</customTabListAdditionalFields>
         <customTabListAdditionalFields>Beds__c</customTabListAdditionalFields>
